@@ -1,0 +1,17 @@
+{
+  "name": "ninh_project",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "ninhvvbg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.0",
+    "mongoose": "^5.12.4",
+    "multer": "^1.4.2"
+  }
+}
